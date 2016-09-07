@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  
     <properties>
 
 		<!-- Generic properties -->
@@ -288,6 +287,18 @@
  
    </plugins>
 </reporting>
+
+<build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-war-plugin</artifactId>
+        <configuration>
+          <failOnMissingWebXml>false</failOnMissingWebXml>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
   
  <groupId>com.tss</groupId>
  <artifactId>jobs-api</artifactId>

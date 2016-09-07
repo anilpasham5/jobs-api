@@ -32,31 +32,7 @@ if (document.dform.ks.value == "Key Skills")
 	document.dform.ks.value = "";
 }
 //  End --></script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-2156806795845654",
-    enable_page_level_ads: true
-  });
-</script>
-
 </head>
-
-<SCRIPT LANGUAGE="JavaScript">
-
-<!-- This script and many more are available free online at -->
-<!-- The JavaScript Source!! http://javascript.internet.com -->
-
-<!-- Begin
-function popupPage() {
-var page = "http://ad-p.co?a=1170495";
-windowprops = "height=500,width=550,location=center,"
-+ "scrollbars=yes,menubars=no,toolbars=no,resizable=yes";
-
-window.open(page, "offer", windowprops);
-}
-//  End -->
-</script>
 
 <body leftmargin=0 marginwidth=0 marginheight=0 topmargin=0> <onLoad="setTimeout('popupPage()', 1000);">
 
